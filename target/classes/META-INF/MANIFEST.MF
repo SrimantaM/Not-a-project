@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootJPACrudUsingRest
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: lntinfotech
+Implementation-Vendor-Id: com.pdw
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/SpringBootJPACrudUsingRest
+Created-By: Maven Integration for Eclipse
+
